@@ -10,6 +10,8 @@ Inference: codes/inference.py
 
 To inference this model you should import Test class and call inference method with argument path_to_image. You can see the results of working in a folder: "results/".
 
+```bash
 from inference import Test
 test = Test()
 test.inference(*path_to_image*)
+```
