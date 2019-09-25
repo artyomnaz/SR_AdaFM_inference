@@ -24,7 +24,7 @@ class Test:
 				}, 
 				'path': {
 					'root': '../', 
-					'pretrain_model_G': '../AdaFM.pth', 
+					'pretrain_model_G': '../AdaFM_23_09_clear_dataset.pth', 
 					'results_root': '../results', 
 				}, 
 				'network_G': {
