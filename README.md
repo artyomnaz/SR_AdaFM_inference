@@ -1,5 +1,5 @@
 # SR_AdaFM_inference
-This repository contains a module for inferencing AdaFM model (trained on dataset with profile and anfas faces).
+This repository contains a module for inferencing AdaFM model (trained on dataset with profile and frontal faces).
 
 The model: AdaFM.pth
 
